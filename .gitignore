@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# my additions
+keys.py
+.DS_Store
+settings.json
